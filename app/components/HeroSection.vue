@@ -1,5 +1,5 @@
 <template>
-  <section class="relative w-full h-[75vh] min-h-[560px] overflow-hidden flex flex-col justify-center font-sans">
+  <section class="relative w-full h-full min-h-[560px] overflow-hidden flex flex-col justify-center font-sans">
 
     <!-- ─── SLIDES DE FUNDO ─────────────────────────────────────────────────
          Cada slide é empilhado no mesmo lugar (absolute inset-0).
